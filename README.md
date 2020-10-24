@@ -37,4 +37,14 @@ Finally, you will work with platform-specific machine learning services such as 
 
 When you’re finished with this course, you will have the skills and knowledge to identify issues with models that have been deployed but are not performing to expectations, as well as how to implement deployment using both on-prem and cloud infrastructure.
 
-## 
+## Creating Machine Learning Models
+
+As Machine Learning explodes in popularity, it is becoming ever more important to know precisely how to frame a machine learning model in a manner appropriate to the problem we are trying to solve, and the data that we have available.
+
+In this course, Creating Machine Learning Models you will gain the ability to choose the right type of model for your problem, then build that model, and evaluate its performance.
+
+First, you will learn how rule-based and ML-based systems differ and their strengths and weaknesses and how supervised and unsupervised learning models differ from each other.
+
+Next, you will discover how to implement a range of techniques to solve the supervised learning problems of classification and regression. You will gain an intuitive understanding of the the model algorithms you can use for classification and regression. Finally, you will round out your knowledge by building clustering models using a couple of different algorithms, and validating the results.
+
+When you’re finished with this course, you will have the skills and knowledge to identify the correct machine learning problem setup, and the appropriate solution and evaluation techniques for your use-case.
