@@ -11,7 +11,7 @@ Finally, you will round out your knowledge by applying different methods for fea
 
 When you’re finished with this course, you will have the skills and knowledge to identify the right data procedures for data cleaning and data preparation to set your model up for success.
 
-##Designing a Machine Learning Model
+## Designing a Machine Learning Model
 
 
 As Machine Learning explodes in popularity, it is becoming ever more important to know precisely how to frame a machine learning model in a manner appropriate to the problem we are trying to solve, and the data that we have available.
